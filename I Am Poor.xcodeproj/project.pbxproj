@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A91F74C324D02B9700B2A5AD /* coal@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A91F74C224D02B9700B2A5AD /* coal@3x.png */; };
 		A925D29924BABB4B00616CBC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A925D29824BABB4B00616CBC /* AppDelegate.swift */; };
 		A925D29B24BABB4B00616CBC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A925D29A24BABB4B00616CBC /* SceneDelegate.swift */; };
 		A925D29D24BABB4B00616CBC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A925D29C24BABB4B00616CBC /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A91F74C224D02B9700B2A5AD /* coal@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "coal@3x.png"; sourceTree = "<group>"; };
 		A925D29524BABB4B00616CBC /* I Am Poor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I Am Poor.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A925D29824BABB4B00616CBC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A925D29A24BABB4B00616CBC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		A925D29724BABB4B00616CBC /* I Am Poor */ = {
 			isa = PBXGroup;
 			children = (
+				A91F74C224D02B9700B2A5AD /* coal@3x.png */,
 				A925D29824BABB4B00616CBC /* AppDelegate.swift */,
 				A925D29A24BABB4B00616CBC /* SceneDelegate.swift */,
 				A925D29C24BABB4B00616CBC /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A91F74C324D02B9700B2A5AD /* coal@3x.png in Resources */,
 				A925D2A524BABB4C00616CBC /* LaunchScreen.storyboard in Resources */,
 				A925D2A224BABB4C00616CBC /* Assets.xcassets in Resources */,
 				A925D2A024BABB4B00616CBC /* Main.storyboard in Resources */,
